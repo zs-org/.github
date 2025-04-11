@@ -1,4 +1,4 @@
-# 👋 Welcome to ZS Organization
+# 👋 Welcome to ZS Organization(zsorg)
 
 **ZS** is a community-driven, web-based organization focused on uniting developers under one umbrella to build powerful tools, languages, and frameworks that inspire creativity and learning.
 
