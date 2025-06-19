@@ -16,6 +16,16 @@ A simple, beginner-friendly programming language that empowers kids (and curious
 
 ---
 
+## 🤝 Colaborate with us!
+
+Want to submit your awesome projects with Zs? 
+
+If you're interested in becoming a contributer 
+1. Visit our repository [**Projects**](https://github.com/zs-org/Projects).
+
+---
+
+
 ## 🤝 Join Us!
 
 Want to be a part of our journey?
